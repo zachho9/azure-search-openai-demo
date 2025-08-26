@@ -1,3 +1,8 @@
+# Note:  
+**Repository re-forked for demonstration in August 2025.**  
+Chatbot video link: https://youtu.be/0Uv26g7zUiA
+
+
 <!--
 ---
 name: RAG chat app with your data (Python)
